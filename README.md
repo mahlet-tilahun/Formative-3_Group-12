@@ -29,7 +29,7 @@ Implements the Bivariate Normal Distribution (BVN) PDF from scratch using NumPy.
 
 
 ### Part 2 — Bayesian Probability
-Uses the  IMDb Movie Reviews Dataset to apply Bayes' Theorem in Python. Involves loading and cleaning the dataset, selecting relevant keywords/features, computing conditional probabilities, and presenting results.
+Uses the [IMDb Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) to apply Bayes' Theorem in Python. Involves loading and cleaning the dataset, selecting relevant keywords/features, computing conditional probabilities, and presenting results.
 
 
 ### Part 3 — Manual Gradient Descent Calculations
