@@ -15,7 +15,7 @@ Formative-3_Group-12/
 ├── Formative_3_Part_2.ipynb           # Part 2: Bayesian Probability
 ├── Formative_3_Part_3_Manual_Calculations.pdf  # Part 3: Manual Gradient Descent
 ├── Formative_3_Part_4.ipynb           # Part 4: Gradient Descent in Code
-├── StudentsPerformance.csv            # Dataset used in Part 2
+├── StudentsPerformance.csv            # Dataset used in Part 1
 ├── Contributions list.pdf             # Group contribution breakdown
 └── README.md
 ```
