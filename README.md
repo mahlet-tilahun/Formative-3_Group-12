@@ -1,5 +1,5 @@
 # Formative 3 - Probability Distributions, Bayesian Probability, and Gradient Descent Implementation
-** Group 12 **
+**Group 12**
 
 ## Overview
 
@@ -37,7 +37,7 @@ Each group member manually completed one full iteration of gradient descent for 
 - Initial values: m₀ = −1, b₀ = 1, α = 0.1
 - Data points: (1, 3) and (3, 6)
 
-Each iteration shows: predictions, errors, MSE, Chain Rule derivation, and parameter updates.
+Each iteration covers the key steps of the gradient descent process, including computing predictions, errors, gradients, and updating parameters.
 
 
 ### Part 4 — Gradient Descent in Code
@@ -55,5 +55,11 @@ All notebooks are designed to run in **Google Colab**.
 1. Open the relevant `.ipynb` file in Colab
 2. Run all cells in order
 3. No additional installs required — all libraries (`numpy`, `matplotlib`, `scipy`) are available by default in Colab
+
+## Group Members
+- DUSHIMIMANA CHRISTOPHER
+- Kyla Nyaboke Ochweri
+- Delucie Rurangwa
+- Mahlet Tilahun
 
 
